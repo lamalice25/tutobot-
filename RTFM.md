@@ -1,0 +1,1 @@
+Read the fucking manuel : https://github.com/lamalice25/tutobot-.git
